@@ -28,7 +28,7 @@ The project is structured into the following stages:
     
     bashCopy code
     
-    `git clone https://github.com/your-username/credit-score-prediction.git
+    `git clone git@github.com:Adsandro/credit-score-ml.git
     cd credit-score-prediction` 
     
 2.  Install the required packages. It's recommended to use a virtual environment:
